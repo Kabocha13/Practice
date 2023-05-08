@@ -6,7 +6,7 @@
 #include "camera_pins.h"
 
 const char* ssid = "かぼちゃ";
-const char* password = "wifi.network.ssid.Nick_Stoc";
+const char* password = "*****";
 
 void startCameraServer();
 void setupLedFlash(int pin);
